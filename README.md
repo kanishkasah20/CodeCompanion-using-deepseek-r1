@@ -1,4 +1,4 @@
-# CodeCompanion projecct With deepseek-r1
+# CodeCompanion project using deepseek-r1 model
 
  Implemented generative-ai app using Deepseek R1 with Langchain And Ollama
  
