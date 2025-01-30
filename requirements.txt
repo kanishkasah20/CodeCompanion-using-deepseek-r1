@@ -1,0 +1,42 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxiv
+PyMuPDF
+wikipedia
+langchain-text-splitters
+lxml
+langchain-openai
+chromadb   #open source vectorStore DB
+sentence_transformers #SentenceTransformerEmbeddings embedding models is used in the HuggingFaceEmbeddings class
+langchain_huggingface # langchain and huggigface combined hands together and created this library which provides techniques of calling LLM and embeddings models
+faiss-cpu
+#chromadb  #--earlier we directly install chromadb then use it but now we have langchain_chroma
+langchain_chroma
+streamlit
+langchain-ollama
+# 
+fastapi
+uvicorn
+langserve
+pandas
+openai
+langchain-groq
+sse_starlette
+# duckdb
+# duckduckgo_search==5.3.1b1
+pymupdf
+arxiv
+wikipedia
+mysql-connector-python
+SQLAlchemy
+# validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
+langchain_ollama
